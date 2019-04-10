@@ -1,0 +1,206 @@
+﻿Log file open, 01/31/19 21:57:34
+LogInit:Display: Running engine for game: Granny
+LogInit: Version: 4.5.1-2336687+++depot+UE4-Releases+4.5
+LogInit: API Version: 2326478
+LogInit: Compiled (64-bit): Oct 21 2014 22:32:40
+LogInit: Compiled with Visual C++: 18.00.21005.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++depot+UE4-Releases+4.5
+LogInit: Command line: 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.5/Engine/Binaries/Win64/
+LogInit: Rocket: 1
+[2019.01.31-19.57.34:195][  0]LogTaskGraph: Started task graph with 3 named threads and 4 total threads.
+[2019.01.31-19.57.34:254][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
+[2019.01.31-19.57.34:326][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2019.01.31-19.57.34:339][  0]LogInit: Object subsystem initialized
+[2019.01.31-19.57.34:342][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleRule = ShortestSide'
+[2019.01.31-19.57.34:342][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/PaulCornelDeveloper/Documents/Granny/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2019.01.31-19.57.34:342][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleCurve = (EditorCurveData=(Keys=((Time=480,Value=0.444),(Time=720,Value=0.666),(Time=1080,Value=1.0),(Time=8640,Value=8.0))),ExternalCurve=None)'
+[2019.01.31-19.57.34:342][  0]LogConsoleResponse:Warning:   Found in ini file 'C:/Users/PaulCornelDeveloper/Documents/Granny/Saved/Config/Windows/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2019.01.31-19.57.34:343][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.31-19.57.34:343][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.31-19.57.34:351][  0]LogInit: Computer: DESKTOP-0OFQH0I
+[2019.01.31-19.57.34:351][  0]LogInit: User: PaulCornelDeveloper
+[2019.01.31-19.57.34:358][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.01.31-19.57.34:358][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.01.31-19.57.34:358][  0]LogMemory: Memory total: Physical=6.9GB (7GB approx) Virtual=131072.0GB
+[2019.01.31-19.57.34:358][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.31-19.57.34:358][  0]LogMemory: Process Physical Memory: 64.09 MB used, 64.09 MB peak
+[2019.01.31-19.57.34:358][  0]LogMemory: Process Virtual Memory: 36.87 MB used, 36.87 MB peak
+[2019.01.31-19.57.34:358][  0]LogMemory: Physical Memory: 3332.59 MB used, 7114.43 MB total
+[2019.01.31-19.57.34:358][  0]LogMemory: Virtual Memory: 4423.64 MB used, 134217728.00 MB total
+[2019.01.31-19.57.34:469][  0]LogD3D11RHI: Found D3D11 adapter 0: NVIDIA GeForce GT 730 (Feature Level 11_0)
+[2019.01.31-19.57.34:469][  0]LogD3D11RHI: Adapter has 2018MB of dedicated video memory, 0MB of dedicated system memory, and 3557MB of shared system memory, 1 output[s]
+[2019.01.31-19.57.34:505][  0]LogD3D11RHI: Found D3D11 adapter 1: AMD Radeon(TM) R7 Graphics (Feature Level 11_0)
+[2019.01.31-19.57.34:505][  0]LogD3D11RHI: Adapter has 1006MB of dedicated video memory, 0MB of dedicated system memory, and 3557MB of shared system memory, 0 output[s]
+[2019.01.31-19.57.34:512][  0]LogD3D11RHI: Found D3D11 adapter 2: Microsoft Basic Render Driver (Feature Level 11_0)
+[2019.01.31-19.57.34:512][  0]LogD3D11RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 3557MB of shared system memory, 0 output[s]
+[2019.01.31-19.57.34:512][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
+[2019.01.31-19.57.34:539][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2019.01.31-19.57.34:583][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.31-19.57.34:656][  0]LogTextLocalizationManager: The requested culture ('ro_RO') has no localization data; falling back to 'en' for localization and internationalization data.
+[2019.01.31-19.57.34:927][  0]LogContentStreaming: Texture pool size is 0.000000MB
+[2019.01.31-19.57.42:412][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2019.01.31-19.57.43:438][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2019.01.31-19.57.43:570][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2019.01.31-19.57.43:702][  0]LogDerivedDataCache: Loaded boot cache 0.13s 39MB C:/Users/PaulCornelDeveloper/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc.
+[2019.01.31-19.57.43:702][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/PaulCornelDeveloper/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc
+[2019.01.31-19.57.43:702][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/PaulCornelDeveloper/Documents/Granny/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.31-19.57.43:702][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.31-19.57.43:792][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/DDC.ddp.
+[2019.01.31-19.57.43:805][  0]LogDerivedDataCache: Using Local data cache path C:/Users/PaulCornelDeveloper/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.31-19.57.44:153][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2019.01.31-19.57.44:153][  0]LogMeshUtilities: No automatic mesh merging module available
+[2019.01.31-19.57.44:613][  0]LogLinker:Warning: Asset '../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.01.31-19.57.44:617][  0]LogLinker:Warning: Asset '../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.01.31-19.57.45:015][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2019.01.31-19.57.46:991][  0]UdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.31-19.57.47:389][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for C:/Users/PaulCornelDeveloper/Documents/Granny/Binaries/Win64. Error: 0
+[2019.01.31-19.57.47:689][  0]SourceControl: Info Source control is disabled
+[2019.01.31-19.57.47:689][  0]SourceControl: Info Source control is disabled
+[2019.01.31-19.57.47:713][  0]SourceControl: Info Source control is disabled
+[2019.01.31-19.57.48:071][  0]LogObj: 22915 objects as part of root set at end of initial load.
+[2019.01.31-19.57.48:071][  0]LogUObjectAllocator: 4803544 out of 0 bytes used by permanent object pool.
+[2019.01.31-19.57.48:182][  0]LogEngine: Initializing Engine...
+[2019.01.31-19.57.48:453][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.31-19.57.48:569][  0]LogInit: FAudioDevice initialized.
+[2019.01.31-19.57.48:622][  0]LogAIModule: Creating AISystem for world NewWorld
+[2019.01.31-19.57.48:681][  0]LogDerivedDataCache: Saved boot cache 0.06s 39MB C:/Users/PaulCornelDeveloper/AppData/Local/UnrealEngine/4.5/DerivedDataCache/Boot.ddc.
+[2019.01.31-19.57.48:699][  0]LogInit: Texture streaming: Enabled
+[2019.01.31-19.57.48:830][  0]LogInit: Transaction tracking system initialized
+[2019.01.31-19.57.49:096][  0]BlueprintLog: New page: Editor Load
+[2019.01.31-19.57.49:168][  0]LogAssetRegistry: FAssetRegistry took 0.0114 seconds to start up
+[2019.01.31-19.57.49:169][  0]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for ../../../Engine/Plugins/Experimental/CharacterAI/Content/. Error: 0
+[2019.01.31-19.57.50:157][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2019.01.31-19.57.50:656][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2019.01.31-19.57.53:035][  0]LogConsoleResponse:Display: 
+[2019.01.31-19.57.53:628][  0]SourceControl: Info Source control is disabled
+[2019.01.31-19.57.53:629][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1
+[2019.01.31-19.57.53:630][  0]LightingResults: New page: Lighting Build
+[2019.01.31-19.57.53:659][  0]MapCheck: New page: Map Check
+[2019.01.31-19.57.53:659][  0]LightingResults: New page: Lighting Build
+[2019.01.31-19.57.53:685][  0]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001B0EE2599E0
+[2019.01.31-19.57.54:117][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.31-19.57.54:117][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.01.31-19.57.54:117][  0]Cmd: MAP CHECKDEP
+[2019.01.31-19.57.54:117][  0]MapCheck: New page: Untitled_1 - Jan 31, 2019, 11:57:54 PM
+[2019.01.31-19.57.54:371][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 253.204ms to complete.
+[2019.01.31-19.57.54:371][  0]LogFileHelpers: Loading map 'Template_Default' took 0.742
+[2019.01.31-19.57.54:801][  0]LogCollectionManager: Loaded 0 collections in 0.002099 seconds
+[2019.01.31-19.57.55:598][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2019.01.31-19.57.55:619][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2019.01.31-19.57.55:684][  0]LogLoad: Full Startup: 24.70 seconds (BP compile: 0.15 seconds)
+[2019.01.31-19.57.56:419][  0]LogRenderer:Warning: Reallocating scene render targets to support 992x872.
+[2019.01.31-19.58.02:693][124]LogAssetRegistry: Asset discovery search completed in 13.5370 seconds
+[2019.01.31-19.58.05:129][197]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2019.01.31-19.58.05:129][197]PIE: New page: PIE session: Untitled_1 (Jan 31, 2019, 11:58:05 PM)
+[2019.01.31-19.58.05:136][197]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007019s)
+[2019.01.31-19.58.05:137][197]LogPlayLevel: PIE: World Init took: (0.001160s)
+[2019.01.31-19.58.05:137][197]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.008407s)
+[2019.01.31-19.58.05:237][197]LogWorld: Game class is 'GameMode'
+[2019.01.31-19.58.05:285][197]LogAIModule: Creating AISystem for world Untitled_1
+[2019.01.31-19.58.05:286][197]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.01.31-21.58.05
+[2019.01.31-19.58.05:287][197]LogWorld: Bringing up level for play took: 0.001521
+[2019.01.31-19.58.05:291][197]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.842
+[2019.01.31-19.58.21:464][841]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000001B0870E0400
+[2019.01.31-19.58.24:993][943]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Template_Map_Floor)
+[2019.01.31-19.58.39:114][393]Cmd: DELETE
+[2019.01.31-19.58.39:114][393]Cmd: ACTOR DELETE
+[2019.01.31-19.58.39:115][393]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.31-19.58.39:161][393]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2019.01.31-19.58.41:540][466]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (Atmospheric Fog)
+[2019.01.31-19.58.41:761][471]Cmd: DELETE
+[2019.01.31-19.58.41:761][471]Cmd: ACTOR DELETE
+[2019.01.31-19.58.41:762][471]LogEditorActor: Deleted Actor: AtmosphericFog
+[2019.01.31-19.58.41:793][471]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2019.01.31-19.58.42:367][490]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2019.01.31-19.58.42:401][490]Cmd: DELETE
+[2019.01.31-19.58.42:401][490]Cmd: ACTOR DELETE
+[2019.01.31-19.58.43:731][490]LogEditorActor: Deleted 0 Actors (1.330 secs)
+[2019.01.31-19.58.44:410][512]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2019.01.31-19.58.44:962][528]Cmd: DELETE
+[2019.01.31-19.58.44:962][528]Cmd: ACTOR DELETE
+[2019.01.31-19.58.44:963][528]LogEditorActor: Deleted Actor: PlayerStart
+[2019.01.31-19.58.44:988][528]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.01.31-19.59.16:996][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Door/Door.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.17:003][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Door/Door_Mat.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.17:012][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Door/Door_normal.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.17:020][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Door/door_SM.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.17:026][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Drawer/Drawer.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.17:033][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Drawer/Drawer_BP.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.17:042][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Drawer/Drawer_Mat.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.17:050][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Drawer/Drawer_normal.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.17:060][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Drawer/drawer_SM_Drawer.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.17:071][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Drawer/drawer_SM_Drawer_2.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.17:078][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Locker/Locker.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.17:089][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Locker/Locker_BP.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.17:095][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Locker/Locker_Mat.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.17:104][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Locker/Locker_normal.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.17:110][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Locker/locker_SM_Door.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.17:120][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Locker/locker_SM_Locker.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.17:129][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Picture/Picture.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.17:136][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Picture/Picture_Mat.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.17:146][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Picture/Picture_SM.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.17:155][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Small_table/Table.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.17:167][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Small_table/Table_Mat.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.17:174][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Small_table/Table_normal.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.17:181][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Small_table/table_SM.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.17:189][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Table/Table.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.17:199][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Table/Table_mat.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.17:210][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Table/Table_normal.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.17:220][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Table/Table_SM.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.17:230][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Vase/vase.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.17:238][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Vase/VASE_COLOR.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.17:245][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Vase/VASE_COLOR_Mat.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.17:254][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Bed/bed.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.17:267][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Bed/bed_Mat.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.17:276][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Bed/bed_normal.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.17:286][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Bed/bed_SM.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.17:310][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Camera/Floor/Wood.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.17:316][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Camera/Floor/Wood_Mat.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.17:322][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Camera/Floor/Wood_normal.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.17:330][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Camera/Wall/Wall.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.17:340][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Camera/Wall/Wall_Mat.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.17:347][772]LogAssetTools:Warning: Failed to import 'C:\Users\PaulCornelDeveloper\Downloads\Granny_remake\Camera/Wall/Wall_normal.uasset'. Unknown extension 'uasset'.
+[2019.01.31-19.59.43:106][844]LogFileManager:Warning: ReadFile failed: Count=0 Length=916400726 Error=The operation completed successfully. for file C:/Users/PaulCornelDeveloper/Documents/Granny/Content/Door/Door.uasset
+[2019.01.31-19.59.43:450][845]LogWindows:Error: Windows GetLastError: The operation completed successfully. (0)
+[2019.01.31-19.59.43:450][845]LogCrashTracker: 
+
+
+[2019.01.31-19.59.45:486][857]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.01.31-19.59.45:490][857]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Shere)
+[2019.01.31-19.59.45:835][867]LogThreadingWindows:Error: Runnable thread FAssetDataGatherer crashed.
+[2019.01.31-19.59.45:835][867]LogCrashTracker: 
+
+
+[2019.01.31-19.59.45:835][867]LogWindows: === Critical error: ===
+Fatal error: [File:D:\BuildFarm\buildmachine_++depot+UE4-Releases+4.5\Engine\Source\Runtime\Core\Private\HAL\FileManagerGeneric.cpp] [Line: 608] 
+Invalid BufferCount=0 while reading C:/Users/PaulCornelDeveloper/Documents/Granny/Content/Door/Door.uasset. Pos=916401750, Size=3373062, PrecacheSize=2147483647, PrecacheOffset=916401750
+
+
+KERNELBASE.dll!UnknownFunction (0x00007ff9f2ba5299) + 0 bytes [UnknownFile:0]
+UE4Editor-Core.dll!UnknownFunction (0x00007ff9a95471c4) + 0 bytes [UnknownFile:0]
+UE4Editor-Core.dll!UnknownFunction (0x00007ff9a93d979f) + 0 bytes [UnknownFile:0]
+UE4Editor-Core.dll!UnknownFunction (0x00007ff9a92e8767) + 0 bytes [UnknownFile:0]
+UE4Editor-Core.dll!UnknownFunction (0x00007ff9a93056fd) + 0 bytes [UnknownFile:0]
+UE4Editor-Core.dll!UnknownFunction (0x00007ff9a9419f01) + 0 bytes [UnknownFile:0]
+UE4Editor-Core.dll!UnknownFunction (0x00007ff9a94190ba) + 0 bytes [UnknownFile:0]
+UE4Editor-Core.dll!UnknownFunction (0x00007ff9a9419521) + 0 bytes [UnknownFile:0]
+UE4Editor-Core.dll!UnknownFunction (0x00007ff9a946a8e4) + 0 bytes [UnknownFile:0]
+UE4Editor-CoreUObject.dll!UnknownFunction (0x00007ff9b706f31a) + 0 bytes [UnknownFile:0]
+UE4Editor-AssetRegistry.dll!UnknownFunction (0x00007ff987f34f71) + 0 bytes [UnknownFile:0]
+UE4Editor-AssetRegistry.dll!UnknownFunction (0x00007ff987f37216) + 0 bytes [UnknownFile:0]
+UE4Editor-AssetRegistry.dll!UnknownFunction (0x00007ff987f3e65f) + 0 bytes [UnknownFile:0]
+UE4Editor-Core.dll!UnknownFunction (0x00007ff9a9546326) + 0 bytes [UnknownFile:0]
+UE4Editor-Core.dll!UnknownFunction (0x00007ff9a953ad4d) + 0 bytes [UnknownFile:0]
+KERNEL32.DLL!UnknownFunction (0x00007ff9f6477e94) + 0 bytes [UnknownFile:0]
+ntdll.dll!UnknownFunction (0x00007ff9f6a7a251) + 0 bytes [UnknownFile:0]
+ntdll.dll!UnknownFunction (0x00007ff9f6a7a251) + 0 bytes [UnknownFile:0]
+
+Crash in runnable thread FAssetDataGatherer
+
+[2019.01.31-19.59.46:190][878]LogExit: Executing StaticShutdownAfterError
+[2019.01.31-19.59.46:223][879]LogWindows:Error: Error reentered: Runnable thread FAssetDataGatherer crashed.
+[2019.01.31-19.59.46:223][879]LogWindows:Error: HandleError re-entered.
+[2019.01.31-19.59.46:223][879]LogWindows: FPlatformMisc::RequestExit(1)
+[2019.01.31-19.59.46:223][879]Log file closed, 01/31/19 21:59:46
